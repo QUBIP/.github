@@ -1,6 +1,6 @@
 # QUBIP
 
-![QUBIP Logo](QUBIP_FullLogo.png)
+![QUBIP Logo](https://raw.githubusercontent.com/QUBIP/.github/main/profile/QUBIP_FullLogo.png)
 
 ### _Integrating PQC algorithms into protocols, networks, and systems_
 
